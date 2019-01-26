@@ -65,7 +65,7 @@
                 android:textColor="@color/colorAccent"/>
     </LinearLayout>
     <Button
-            android:text="Button"
+            android:text="NEXT"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:id="@+id/button3" android:layout_marginBottom="8dp"
